@@ -10,5 +10,6 @@ For sample input, please check sampleSudoku.txt
 
 ---
 This is a sample execution.
+
 ![alt Sample execution of Sudoku-solver](sampleExecSudoku.png)
 
