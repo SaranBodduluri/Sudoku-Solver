@@ -1,4 +1,4 @@
-# Sudoku-solver
+# Sudoku-Solver
 
 This program takes the sudoku array input from the text file.
 Give the sudoku array into a text file, 
